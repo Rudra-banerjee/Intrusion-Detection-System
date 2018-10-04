@@ -1,11 +1,16 @@
 # Intrusion-Detection-System
-Intrusion detection system for home security and surveillence. 
-Team members:
+
+Intrusion detection system for home security and surveillance.
+Raspberry Pi sends an email to the master whenever any person tries to enter the house along with photos and a video-clip(captured by pi camera). The entrance is opened or remain closed according to the subject of the master's reply email.
+
+Team : Pi Hackers
+
+Members:
 
 ARGHA SEN
 
-MAYUKH MAJI
-
-PALLABI MONDAL
+MAYUKH MAJHI
 
 RUDRA BANERJEE
+
+PALLABI MONDAL
